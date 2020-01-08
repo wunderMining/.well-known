@@ -1,3 +1,4 @@
 This is a Brave Rewards publisher verification file. 
+
 Domain: wundermining.github.io
 Token: be0c18eb17cbc230ca3f7a46b9e77aea4de5465d721b701a59d4206811e6900b
